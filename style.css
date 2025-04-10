@@ -46,13 +46,13 @@ header a, footer a{
     font-size: 3vw;
 }
 section.normal{
-    font-size: 2.5vh;
+    font-size: 2.2vh;
     background-color: white;
     color: black;
     
 }
 section.imagem{
-    font-size: 2.5vh;  
+    font-size: 2.2vh;  
     box-shadow: 6px 6px 13px 6px rgba(0, 0, 0, 0.61);
     background-color: gray;
     color: white;
@@ -70,12 +70,12 @@ section.imagem > p{
 section#img01{
    background-image: url(imagens/background001.jpg);
    background-position: center;
-   font-size: 2.5vh;
+   font-size: 2.2vh;
 
 }
 section#img02{
     background-image: url(imagens/background002.jpg);
-    font-size: 2.5vh;
+    font-size: 2.2vh;
     
 }
 section{    
