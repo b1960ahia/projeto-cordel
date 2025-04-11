@@ -44,14 +44,12 @@ header a, footer a{
     text-decoration: none;    
 }
 
-section.normal{
-    font-size: 2.2vh;
+section.normal{    
     background-color: white;
     color: black;    
 }
 
-section.imagem{
-    font-size: 2.2vh;         
+section.imagem{            
     box-shadow: 6px 6px 13px 6px rgba(0, 0, 0, 0.61);
     background-color: gray;
     color: white;
@@ -59,8 +57,7 @@ section.imagem{
     background-attachment: fixed;    
 }
 
-section.imagem > p{
-     
+section.imagem > p{     
     text-shadow: 2px 2px opx black;
     background-color: rgba(54, 51, 51, 0.356);
     display: inline-block;
