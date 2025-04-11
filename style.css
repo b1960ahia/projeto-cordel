@@ -45,19 +45,19 @@ header a, footer a{
 }
 
 section.normal{
-    font-size: 1em;   
+    font-size: em;   
     background-color: white;
     color: black;    
 }
 
-section.imagem{   
-                
+section.imagem{
     box-shadow: 6px 6px 13px 6px rgba(0, 0, 0, 0.61);
     background-color: gray;
     color: white;
     background-size: cover;
-    backgrounfontd-attachment: fixed;    
-}
+    background-attachment: fixed;
+}              
+  
 
 section.imagem > p{
     font-size: 1.2em;       
