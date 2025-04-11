@@ -51,6 +51,7 @@ section.normal{
 }
 
 section.imagem{
+    font-size: 2.5vh;
     font-size-adjust: var(--fonte3);            
     box-shadow: 6px 6px 13px 6px rgba(0, 0, 0, 0.61);
     background-color: gray;
