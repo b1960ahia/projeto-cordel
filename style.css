@@ -74,7 +74,8 @@ section#img02{
     background-image: url(imagens/background002.jpg);    
     
 }
-section{    
+section{
+    font-size: 2.8vw;    
     font-family: var(--fonte3);
     padding-top: 10vh;
     padding-bottom: 10vh;
