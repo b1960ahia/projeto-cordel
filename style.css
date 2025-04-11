@@ -45,7 +45,7 @@ header a, footer a{
 }
 
 section.normal{
-      
+    font-size: 1.2em;   
     background-color: white;
     color: black;    
 }
@@ -77,7 +77,8 @@ section#img02{
     background-image: url(imagens/background002.jpg);    
     
 }
-section{        
+section{
+    font-size: 1.2em;        
     font-family: var(--fonte3);
     padding-top: 10vh;
     padding-bottom: 10vh;
