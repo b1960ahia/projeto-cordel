@@ -24,40 +24,39 @@ header{
     text-align: center;
 }
 header > h1{
-    font-size: 7.5vw;
+    font-size: 8vw;
     font-family: var(--fonte2);
     padding-top: 30px;
     font-variant: small-caps;
 }
 header > p{
     padding-bottom: 30px;
-    
+        
 }
 header a:hover, footer a:hover{
     text-decoration: underline;
 }
 
-header a, footer a{    
+header a, footer a{       
     color: white;
     font-weight: bolder;
-    text-decoration: none;
-    
+    text-decoration: none;    
 }
+
 section.normal{
     font-size: 2.2vh;
     background-color: white;
-    color: black;
-    
+    color: black;    
 }
-section.imagem{
-         
+
+section.imagem{         
     box-shadow: 6px 6px 13px 6px rgba(0, 0, 0, 0.61);
     background-color: gray;
     color: white;
     background-size: cover;
-    background-attachment: fixed;
-    
+    background-attachment: fixed;    
 }
+
 section.imagem > p{
     font-size: 2.2vh; 
     text-shadow: 2px 2px opx black;
@@ -66,14 +65,14 @@ section.imagem > p{
     padding: 2px;
     
 }
+
 section#img01{
    background-image: url(imagens/background001.jpg);
    background-position: center;
    
 }
 section#img02{
-    background-image: url(imagens/background002.jpg);
-    
+    background-image: url(imagens/background002.jpg);    
     
 }
 section{    
